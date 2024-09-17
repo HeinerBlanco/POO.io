@@ -38,6 +38,7 @@ function agregarCurso() {
     });
 }
 
+
 // Función para agregar un curso seleccionado
 function agregarACursosSeleccionados(curso, horario) {
     const listaCursos = document.getElementById('cursosSeleccionados');
